@@ -44,11 +44,13 @@ I can add about myself, I am hardworking, responsible, I learn quickly and I lik
 
 
 **Course:**
-: * HTML Academy 
-: * Code Basics
+* HTML Academy 
+* Code Basics
 
 ***
 
 ## Languages
 * **Russian** (native speaker)
 * **English** (A1 Elementary)
+
+***
